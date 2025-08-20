@@ -1,73 +1,43 @@
-# Welcome to your Lovable project
+**✍️ InkWell**
 
-## Project info
+InkWell is a modern blogging platform built with React, TypeScript, and Tailwind CSS that allows users to write, publish, and explore blogs effortlessly.
 
-**URL**: https://lovable.dev/projects/518a98ce-071e-4700-8168-576c0ee4ab73
+**🚀 Features**
 
-## How can I edit this code?
+📝 Create & Publish blogs with title, summary, content, tags, and categories
 
-There are several ways of editing your application.
+📖 Read & Explore published blogs in a clean feed layout
 
-**Use Lovable**
+💾 Drafts support – save posts and continue editing later
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/518a98ce-071e-4700-8168-576c0ee4ab73) and start prompting.
+🔑 Authentication for secure login/signup
 
-Changes made via Lovable will be committed automatically to this repo.
+⚡ Fast & Responsive UI powered by React + Tailwind CSS
 
-**Use your preferred IDE**
+🎨 Rich UI Components with ShadCN & Lucide Icons
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+**🛠️ Tech Stack**
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+_Frontend_: React, TypeScript, Tailwind CSS, ShadCN UI
 
-Follow these steps:
+_State & Data_: React Query (@tanstack/react-query)
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+_Routing_: React Router
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+_Notifications_: Sonner + ShadCN Toaster
 
-# Step 3: Install the necessary dependencies.
-npm i
+_Version Control_: Git & GitHub
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+**📂 Project Structure**
+<img width="562" height="233" alt="image" src="https://github.com/user-attachments/assets/3677a4fc-05a0-4c71-bab6-b7fa2b3a7f95" />
 
-**Edit a file directly in GitHub**
+**📸 Screenshots**
+<img width="656" height="615" alt="image" src="https://github.com/user-attachments/assets/20e3706f-16e5-4c82-b03b-03eb1ae199e8" />
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+<img width="1109" height="596" alt="image" src="https://github.com/user-attachments/assets/95aaf2d5-d1e4-4e99-aa8d-447e4c7695b6" />
 
-**Use GitHub Codespaces**
+<img width="667" height="536" alt="image" src="https://github.com/user-attachments/assets/e0391a5a-3804-43f3-9c74-f31d40f016c8" />
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+<img width="666" height="444" alt="image" src="https://github.com/user-attachments/assets/6fe14f9a-bc1f-4d0e-b569-d9c3173bdbed" />
 
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/518a98ce-071e-4700-8168-576c0ee4ab73) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+<img width="610" height="566" alt="image" src="https://github.com/user-attachments/assets/9eb32384-4d5c-49d5-9aed-4f3cdbdbfc16" />
