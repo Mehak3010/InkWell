@@ -34,12 +34,19 @@ _Version Control_: Git & GitHub
 
 **📸 Screenshots**
 
+_Home Page_
+
+<img width="666" height="444" alt="image" src="https://github.com/user-attachments/assets/6fe14f9a-bc1f-4d0e-b569-d9c3173bdbed" />
+
 
 <img width="656" height="615" alt="image" src="https://github.com/user-attachments/assets/20e3706f-16e5-4c82-b03b-03eb1ae199e8" />
 
+_Write a Blog_
+
 <img width="1109" height="596" alt="image" src="https://github.com/user-attachments/assets/95aaf2d5-d1e4-4e99-aa8d-447e4c7695b6" />
+
+_Dashboard_
 
 <img width="667" height="536" alt="image" src="https://github.com/user-attachments/assets/e0391a5a-3804-43f3-9c74-f31d40f016c8" />
 
-<img width="666" height="444" alt="image" src="https://github.com/user-attachments/assets/6fe14f9a-bc1f-4d0e-b569-d9c3173bdbed" />
 
