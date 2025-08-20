@@ -29,9 +29,11 @@ _Notifications_: Sonner + ShadCN Toaster
 _Version Control_: Git & GitHub
 
 **📂 Project Structure**
+
 <img width="562" height="233" alt="image" src="https://github.com/user-attachments/assets/3677a4fc-05a0-4c71-bab6-b7fa2b3a7f95" />
 
 **📸 Screenshots**
+
 <img width="656" height="615" alt="image" src="https://github.com/user-attachments/assets/20e3706f-16e5-4c82-b03b-03eb1ae199e8" />
 
 <img width="1109" height="596" alt="image" src="https://github.com/user-attachments/assets/95aaf2d5-d1e4-4e99-aa8d-447e4c7695b6" />
