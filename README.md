@@ -42,4 +42,3 @@ _Version Control_: Git & GitHub
 
 <img width="666" height="444" alt="image" src="https://github.com/user-attachments/assets/6fe14f9a-bc1f-4d0e-b569-d9c3173bdbed" />
 
-<img width="610" height="566" alt="image" src="https://github.com/user-attachments/assets/9eb32384-4d5c-49d5-9aed-4f3cdbdbfc16" />
