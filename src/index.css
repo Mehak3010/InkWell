@@ -1,0 +1,115 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 🌞 Light Theme */
+:root {
+  --background: 210 100% 98%;
+  --foreground: 222 47% 11%;
+  
+  --primary: 260 95% 60%; /* Purple */
+  --primary-foreground: 0 0% 100%;
+  --primary-glow: 260 95% 75%;
+
+  --secondary: 180 80% 45%; /* Teal */
+  --secondary-foreground: 0 0% 100%;
+
+  --accent: 340 100% 70%; /* Pink */
+  --accent-foreground: 0 0% 100%;
+
+  --destructive: 0 85% 60%;
+  --destructive-foreground: 0 0% 100%;
+
+  --muted: 240 20% 90%;
+  --muted-foreground: 240 20% 30%;
+
+  --border: 240 10% 85%;
+  --input: 240 10% 95%;
+  --ring: 260 95% 60%;
+
+  --card: 0 0% 100%;
+  --card-foreground: 222 47% 11%;
+
+  --popover: 0 0% 100%;
+  --popover-foreground: 222 47% 11%;
+
+  --hero-bg: 260 100% 96%;
+  --hero-accent: 260 95% 65%;
+
+  --sidebar-background: 260 50% 96%;
+  --sidebar-foreground: 222 47% 11%;
+  --sidebar-primary: 260 80% 60%;
+  --sidebar-primary-foreground: 0 0% 100%;
+  --sidebar-accent: 320 100% 70%;
+  --sidebar-accent-foreground: 0 0% 100%;
+  --sidebar-border: 240 10% 80%;
+  --sidebar-ring: 260 80% 60%;
+
+  /* Gradients */
+  --gradient-primary: linear-gradient(135deg, hsl(var(--primary)) 0%, hsl(var(--secondary)) 100%);
+  --gradient-hero: linear-gradient(135deg, hsl(var(--hero-bg)) 0%, hsl(var(--hero-accent)/0.2) 100%);
+  --gradient-card: linear-gradient(135deg, hsl(var(--card)/0.9) 0%, hsl(var(--card)) 100%);
+  
+  /* Shadows */
+  --shadow-elegant: 0 10px 30px -10px rgba(0, 0, 0, 0.1), 0 0 1px rgba(0, 0, 0, 0.1);
+  --shadow-card: 0 4px 12px rgba(0, 0, 0, 0.05), 0 0 1px rgba(0, 0, 0, 0.1);
+  --shadow-glow: 0 0 15px rgba(124, 58, 237, 0.15);
+
+  --radius: 8px;
+}
+
+/* 🌙 Dark Theme */
+.dark {
+  --background: 240 10% 10%;
+  --foreground: 0 0% 100%;
+
+  --primary: 260 95% 70%;
+  --primary-foreground: 0 0% 100%;
+  --primary-glow: 260 95% 85%;
+
+  --secondary: 180 80% 55%;
+  --secondary-foreground: 0 0% 100%;
+
+  --accent: 340 100% 75%;
+  --accent-foreground: 0 0% 100%;
+
+  --destructive: 0 85% 65%;
+  --destructive-foreground: 0 0% 100%;
+
+  --muted: 240 10% 30%;
+  --muted-foreground: 240 10% 80%;
+
+  --border: 240 10% 30%;
+  --input: 240 10% 20%;
+  --ring: 260 95% 70%;
+
+  --card: 240 10% 15%;
+  --card-foreground: 0 0% 100%;
+
+  --popover: 240 10% 20%;
+  --popover-foreground: 0 0% 100%;
+
+  --hero-bg: 260 80% 12%;
+  --hero-accent: 260 95% 75%;
+
+  --sidebar-background: 240 10% 15%;
+  --sidebar-foreground: 0 0% 100%;
+  --sidebar-primary: 260 95% 70%;
+  --sidebar-primary-foreground: 0 0% 100%;
+  --sidebar-accent: 320 100% 80%;
+  --sidebar-accent-foreground: 0 0% 100%;
+  --sidebar-border: 240 10% 30%;
+  --sidebar-ring: 260 80% 70%;
+
+  /* Gradients */
+  --gradient-primary: linear-gradient(135deg, hsl(var(--primary)) 0%, hsl(var(--secondary)) 100%);
+  --gradient-hero: linear-gradient(135deg, hsl(var(--hero-bg)) 0%, hsl(var(--hero-accent)/0.2) 100%);
+  --gradient-card: linear-gradient(135deg, hsl(var(--card)/0.9) 0%, hsl(var(--card)) 100%);
+  
+  /* Shadows */
+  --shadow-elegant: 0 10px 30px -10px rgba(0, 0, 0, 0.3), 0 0 1px rgba(0, 0, 0, 0.3);
+  --shadow-card: 0 4px 12px rgba(0, 0, 0, 0.2), 0 0 1px rgba(0, 0, 0, 0.2);
+  --shadow-glow: 0 0 15px rgba(124, 58, 237, 0.25);
+
+  --radius: 8px;
+}
