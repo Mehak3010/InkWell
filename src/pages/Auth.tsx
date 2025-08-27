@@ -93,7 +93,7 @@ const Auth = () => {
   return (
     <div className="min-h-screen flex items-center justify-center p-4 relative overflow-hidden">
       {/* Blog-related background image with overlay */}
-      <div className="absolute inset-0 bg-cover bg-center z-0" style={{ backgroundImage: 'url(/src/assets/blog-hero.jpg)', backgroundSize: 'cover' }}></div>
+      <div className="absolute inset-0 bg-cover bg-center z-0" style={{ backgroundImage: 'url(/images/blog-hero.jpg)', backgroundSize: 'cover' }}></div>
       <div className="absolute inset-0 bg-gradient-to-br from-black/70 via-primary/50 to-black/70 z-0"></div>
       <div className="absolute inset-0 backdrop-blur-sm z-0"></div>
       
